@@ -47,7 +47,7 @@ Make sure the terminal prompt shows your project root folder, e.g. `C:\Meshcore>
 
 ## 4. Configure pin numbers
 
-Connect your ESP32 to the PC, then adjust the pin numbers in the build flags as shown in the screenshot above. You can keep the defaults below or change them to suit your wiring.
+Connect your ESP32 to the PC, then adjust the pin numbers in the build flags as shown in the screenshot above. You can keep the defaults as in the screenshots for a minimal system or change them to suit your wiring.
 
 > **Tip:** If you change any pins, verify your custom pin map (for example with ChatGPT or the ESP32 pinout documentation) so that you do **not** use bootstrapping/strapping pins.
 
