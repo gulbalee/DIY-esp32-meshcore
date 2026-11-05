@@ -32,7 +32,7 @@ Download **one** of the following zip files:
 
 Unzip it to your C: or D: drive (whichever suits your PC), e.g. `C:\Meshcore` or `D:\Meshcore`.
 
-Open the unzipped folder in Windows Explorer:
+Open the unzipped folder in VS Code Explorer:
 
 <img width="419" height="374" alt="Unzipped folder" src="https://github.com/user-attachments/assets/cbe5f376-f8f3-475b-87d0-c4d3ef978faf" />
 
@@ -42,7 +42,7 @@ Open the folder in VS Code, then open a new terminal from the PlatformIO extensi
 
 <img width="860" height="584" alt="PlatformIO terminal" src="https://github.com/user-attachments/assets/f5c86c0a-8c67-4701-b0a6-5803dc30b66c" />
 
-Make sure the terminal prompt shows your project root folder, e.g. `C:\Meshcore>` or `D:\Meshcore>`, matching where you unzipped it:
+Make sure the terminal prompt shows your project root folder, e.g. `C:\Meshcore>` or `D:\Meshcore>`, matching where you unzipped it. In the left hand excplorer menu click on variants and then select the folder my_esp32_sx1278_companion then click on platformio.ini
 
 <img width="892" height="877" alt="Terminal at project root" src="https://github.com/user-attachments/assets/fd039a54-ce69-4879-8093-569288445c93" />
 
